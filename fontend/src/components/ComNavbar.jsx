@@ -37,7 +37,7 @@ const ComNavbar = ({ data, setFilteredData }) => {
     <div>
       <div className="navbar bg-base-100 shadow ">
         <div className="flex-1">
-          <a href="/" className="btn btn-ghost text-xl">daisyUI </a>
+          <a href="/" className="btn btn-ghost text-xl">HOME </a>
         </div>
         <div className="flex-none gap-2">
 
