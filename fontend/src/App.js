@@ -31,7 +31,7 @@ function App() {
       <br />
       <br />
       <div className="flex-col">
-      <main className="flex-grow " style={{ padding: '15px' }}>
+      <main className="flex-grow " style={{ padding: '25px' }}>
           {/* Your main content goes here */}
         </main>
         <Footter />
