@@ -3,20 +3,13 @@ import './App.css';
 import FormProduct from './components/FormProduct';
 import ComNavbar from './components/ComNavbar';
 
-import Swal from 'sweetalert2';
+
 import Footter from './components/Footter';
 
 
 function App() {
 
-  const handleClick = () => {
-    Swal.fire({
-      title: 'Good job!',
-      text: 'You clicked the button!',
-      icon: 'success',
-      confirmButtonText: 'Cool'
-    });
-  };
+  
 
 
   return (
@@ -29,7 +22,7 @@ function App() {
       {/* <AddProduct /> */}
 
 
-      <button onClick={handleClick}>Click me</button>
+    
 
 
       <FormProduct />
