@@ -1,4 +1,6 @@
-# MiniProject-Fullstack-CRUD
+# Thanaphat Nadsawang  MiniProject-Fullstack-CRUD
+
+#Gosoft 
 
 This is a full-stack CRUD (Create, Read, Update, Delete) mini project. The project is built using Node.js, React, and MySQL.
 
